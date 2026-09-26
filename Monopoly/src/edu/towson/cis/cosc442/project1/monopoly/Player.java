@@ -219,7 +219,7 @@ public class Player {
 	/**
 	 * Retrieves the property owned by the player at the specified index.
 	 * @param index The index of the property to retrieve.
-	 * @return The PropertyCell at the given index.
+	 * @return The PropertyCell at the given index. 
 	 */
 	/**
 	 * Retrieves the property owned by the player at the specified index.
