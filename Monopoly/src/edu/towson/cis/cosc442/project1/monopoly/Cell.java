@@ -35,6 +35,7 @@ public abstract class Cell {
 		this.theOwner = owner;
 	}
     
+        @Override
     public String toString() {
         return name;
     }

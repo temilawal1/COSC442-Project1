@@ -6,6 +6,7 @@ public class PlayerTest extends TestCase {
 
 	GameMaster gameMaster;
 	
+	@Override
 	protected void setUp() throws Exception {
 		gameMaster = GameMaster.instance();
 		gameMaster.setGameBoard(new SimpleGameBoard());
